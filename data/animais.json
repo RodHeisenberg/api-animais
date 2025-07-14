@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "nome": "Rex",
+    "especie": "cachorro",
+    "raca": "Labrador",
+    "idade": 3,
+    "sexo": "macho",
+    "descricao": "Muito dócil e brincalhão.",
+    "abrigo_id": "1"
+  }
+]
